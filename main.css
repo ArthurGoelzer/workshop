@@ -1,0 +1,64 @@
+:root {
+    --workshop-theme-red: rgb(170, 30, 46);
+}
+
+.padding-dark {
+    box-shadow: inset -1em 0 0.4em 0 rgb(20, 20, 23, 20%);
+}
+
+.workshop-text-red {
+    color: var(--workshop-theme-red);
+}
+
+.workshop-header {
+    font-family: Consolas, serif;
+}
+
+.workshop-sidebar-item {
+    background: #1e1f22;
+    color: white;
+    font-weight: bold;
+    padding-left: 1em;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+
+.workshop-sidebar-item:hover {
+    background: #171719;
+    cursor: pointer;
+}
+
+.workshop-online-status {
+    justify-content: flex-end;
+}
+
+.wb-body {
+    background: #131820;
+}
+
+
+/*NETWORK*/
+
+#networkContent {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
